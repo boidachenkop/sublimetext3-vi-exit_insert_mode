@@ -1,0 +1,13 @@
+[
+	{"command": "exit_insert_mode",
+	"context":
+	[
+		{ "key": "setting.command_mode", "operand": false },
+		{ "key": "setting.is_widget", "operand": false }
+	]},
+	{"command": "hide_auto_complete",
+	"context":
+	[
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": true }
+	]}
+]

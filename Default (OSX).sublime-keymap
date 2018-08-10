@@ -1,0 +1,3 @@
+[
+	{"keys": ["j","j"], "command": "run_macro_file", "args": {"file": "res://Packages/User/exit_insert_mode.sublime-macro"}}
+]
