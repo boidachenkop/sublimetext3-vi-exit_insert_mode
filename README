@@ -1,0 +1,17 @@
+============================================================================
+Author: Pavlo Boidachenko									Date: 10.08.2018
+============================================================================
+								
+							Description.
+
+Fine way to close auto complete menu after exiting insert mode using 'jj' 
+shortcut, when using Vintage mode with Sublime Text 3.
+
+							Instruction.
+
+1. Put macros file exit_insert_mode.sublime-macro into .../Packages/User/
+   directory.
+2. Open your Sublime Key Buildings preferences and put there text from
+   'Default (OSX).sublime-keymap' file.
+3. Done.
+
