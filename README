@@ -13,5 +13,8 @@ shortcut, when using Vintage mode with Sublime Text 3.
    directory.
 2. Open your Sublime Key Buildings preferences and put there text from
    'Default (OSX).sublime-keymap' file.
-3. Done.
+3. For your comfort i suggest to reduce auto_complete_delay value in 
+   Preferences, because sometimes autocomplete menu shows up after
+   you type 'jj' and not closes. 
+4. Done.
 
